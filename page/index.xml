@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on サンディー Lab</title>
+    <link>https://takusawa.github.io/page/</link>
+    <description>Recent content in Pages on サンディー Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jan 2017 18:46:41 +0900</lastBuildDate>
+    <atom:link href="https://takusawa.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>このサイトについて</title>
+      <link>https://takusawa.github.io/page/about/</link>
+      <pubDate>Sun, 08 Jan 2017 18:46:41 +0900</pubDate>
+      
+      <guid>https://takusawa.github.io/page/about/</guid>
+      <description>
+
+&lt;p&gt;このサイトは情報系に進学した大学院生がWEBについて勉強するために立ち上げたサイトです。
+勉強の一環としてGoogleAnalyticsや広告を設置しております。悪しからず&lt;/p&gt;
+
+&lt;h2 id=&#34;投稿内容&#34;&gt;投稿内容&lt;/h2&gt;
+
+&lt;p&gt;記事の投稿内容としては、&lt;br /&gt;
+・WEBに関して書き留めたいと考えたこと。&lt;br /&gt;
+・自分がやってる研究（実質やってないけど）で学んだ知識とか&lt;br /&gt;
+・オススメの本の紹介とか（そのうちアフィリエイト広告の設置も練習する予定）&lt;br /&gt;
+・趣味でやってるベースの演奏動画投稿とか&lt;/p&gt;
+
+&lt;p&gt;を継続してあげることが出来たらいいなと考えております。よろしくお願いします。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
