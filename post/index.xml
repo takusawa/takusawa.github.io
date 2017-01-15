@@ -6,8 +6,17 @@
     <description>Recent content in Posts on サンディー Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Jan 2017 00:50:09 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2017 22:13:35 +0900</lastBuildDate>
     <atom:link href="https://takusawa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>twentyone</title>
+      <link>https://takusawa.github.io/post/twentyone/</link>
+      <pubDate>Sun, 15 Jan 2017 22:13:35 +0900</pubDate>
+      
+      <guid>https://takusawa.github.io/post/twentyone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>twenty</title>
@@ -132,15 +141,6 @@
       <pubDate>Sun, 08 Jan 2017 18:14:44 +0900</pubDate>
       
       <guid>https://takusawa.github.io/post/six/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>five</title>
-      <link>https://takusawa.github.io/post/five/</link>
-      <pubDate>Sun, 08 Jan 2017 18:14:39 +0900</pubDate>
-      
-      <guid>https://takusawa.github.io/post/five/</guid>
       <description></description>
     </item>
     
