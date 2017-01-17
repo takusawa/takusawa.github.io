@@ -136,12 +136,25 @@
     </item>
     
     <item>
-      <title>six</title>
-      <link>https://takusawa.github.io/post/six/</link>
+      <title>独り言</title>
+      <link>https://takusawa.github.io/post/my_chat1/</link>
       <pubDate>Sun, 08 Jan 2017 18:14:44 +0900</pubDate>
       
-      <guid>https://takusawa.github.io/post/six/</guid>
-      <description></description>
+      <guid>https://takusawa.github.io/post/my_chat1/</guid>
+      <description>&lt;p&gt;いやーよーわからん。。&lt;/p&gt;
+
+&lt;p&gt;hugoのページネーション機能についてのリファレンスは公式サイトにあるけど、&lt;br /&gt;
+&lt;a href=&#34;https://gohugo.io/extras/pagination/&#34; target=&#34;_blank&#34;&gt;公式リファレンス&lt;/a&gt;&lt;br /&gt;
+省略機能ってどうやってつけるんですかね。。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://takusawa.github.io/images/screen.png&#34; alt=&#34;ページネーション&#34; title=&#34;ページネーション&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;上記にあげた画像みたいに、ページ送りの数が一定数超えたら省略するような機能ってどうやって実装する必要があるのでしょうか？&lt;br /&gt;
+色んな個人サイト見てきましたが、hugoの機能を使ってページネーションの省略機能つける類の記事は無かったので
+実装したことある方是非記事に起こしてください（）&lt;/p&gt;
+
+&lt;p&gt;。。正直hugoのリファレンス不親切な気が、、あるいは自分の実力が足りないか、、、&lt;/p&gt;
+</description>
     </item>
     
   </channel>
