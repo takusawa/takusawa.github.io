@@ -6,8 +6,43 @@
     <description>Recent content in Posts on サンディー Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jan 2017 22:13:35 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jan 2017 18:14:44 +0900</lastBuildDate>
     <atom:link href="https://takusawa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>独り言2</title>
+      <link>https://takusawa.github.io/post/my_chat2/</link>
+      <pubDate>Mon, 16 Jan 2017 18:14:44 +0900</pubDate>
+      
+      <guid>https://takusawa.github.io/post/my_chat2/</guid>
+      <description>&lt;p&gt;自分は家じゃなかなか集中して勉強が出来ない、、でも大学は行くだけで１時間３０分以上かかるし、、&lt;br /&gt;
+と思う結果カフェに足を運ぶことが多いですね。&lt;/p&gt;
+
+&lt;p&gt;しかし、自分はわからないことを調べるためや、PCを使って作業したいと思うあまり、wifi環境があるカフェばかり（基本スタバ）
+足を運びますね。&lt;/p&gt;
+
+&lt;p&gt;あと納得いかないのが、wifi完備と謳いながら、au-wifiだったりsoftbank-wifiだったりしてPCが直接接続出来なかったり、、&lt;br /&gt;
+あとwi2premiumで色々登録しないと接続出来ない形式だったり、、&lt;/p&gt;
+
+&lt;p&gt;カフェチェーン店を分類すると、&lt;br /&gt;
+PCでwifi接続できる&lt;br /&gt;
+・スターバックス&lt;br /&gt;
+・タリーズコーヒー&lt;br /&gt;
+・上島珈琲(google検索は出来ない、、yahooとかsafariの検索エンジンは出来るのに、、)&lt;/p&gt;
+
+&lt;p&gt;PCでwifi接続できない&lt;br /&gt;
+・ドトール&lt;br /&gt;
+・ヴェローチェ&lt;br /&gt;
+・エクセルシオール&lt;br /&gt;
+・サンマルクカフェ&lt;/p&gt;
+
+&lt;p&gt;こんなところでしょうか。。&lt;/p&gt;
+
+&lt;p&gt;PCでwifiが繋げてゆっくり勉強ができる環境があるお店ほしいですね〜。（あるいは自宅を整備すべきか）&lt;/p&gt;
+
+&lt;p&gt;以上&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>twentyone</title>
@@ -133,28 +168,6 @@
       
       <guid>https://takusawa.github.io/post/seven/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>独り言</title>
-      <link>https://takusawa.github.io/post/my_chat1/</link>
-      <pubDate>Sun, 08 Jan 2017 18:14:44 +0900</pubDate>
-      
-      <guid>https://takusawa.github.io/post/my_chat1/</guid>
-      <description>&lt;p&gt;いやーよーわからん。。&lt;/p&gt;
-
-&lt;p&gt;hugoのページネーション機能についてのリファレンスは公式サイトにあるけど、&lt;br /&gt;
-&lt;a href=&#34;https://gohugo.io/extras/pagination/&#34; target=&#34;_blank&#34;&gt;公式リファレンス&lt;/a&gt;&lt;br /&gt;
-省略機能ってどうやってつけるんですかね。。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://takusawa.github.io/images/screen.png&#34; alt=&#34;ページネーション&#34; title=&#34;ページネーション&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;上記にあげた画像みたいに、ページ送りの数が一定数超えたら省略するような機能ってどうやって実装する必要があるのでしょうか？&lt;br /&gt;
-色んな個人サイト見てきましたが、hugoの機能を使ってページネーションの省略機能つける類の記事は無かったので
-実装したことある方是非記事に起こしてください（）&lt;/p&gt;
-
-&lt;p&gt;。。正直hugoのリファレンス不親切な気が、、あるいは自分の実力が足りないか、、、&lt;/p&gt;
-</description>
     </item>
     
   </channel>
