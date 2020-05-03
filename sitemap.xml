@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://takusawa.github.io/</loc>
-    <lastmod>2017-01-21T00:31:49+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/post/my_chat3/</loc>
-    <lastmod>2017-01-21T00:31:49+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/post/tips/</loc>
-    <lastmod>2017-01-19T22:36:28+09:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://takusawa.github.io/page/contact/</loc>
     <lastmod>2017-01-19T22:29:13+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/post/worksapplications/</loc>
-    <lastmod>2017-01-18T21:02:26+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/post/adsense/</loc>
-    <lastmod>2017-01-18T16:35:41+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/post/my_chat2/</loc>
-    <lastmod>2017-01-16T18:14:44+09:00</lastmod>
   </url>
   
   <url>
@@ -42,28 +13,25 @@
   </url>
   
   <url>
-    <loc>https://takusawa.github.io/post/my_chat1/</loc>
-    <lastmod>2017-01-08T18:14:44+09:00</lastmod>
+    <loc>https://takusawa.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://takusawa.github.io/post/branch_site/</loc>
-    <lastmod>2017-01-08T18:14:33+09:00</lastmod>
+    <loc>https://takusawa.github.io/page/</loc>
+    <lastmod>2017-01-19T22:29:13+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://takusawa.github.io/post/retrospect/</loc>
-    <lastmod>2017-01-08T16:52:32+09:00</lastmod>
+    <loc>https://takusawa.github.io/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://takusawa.github.io/post/purpose/</loc>
-    <lastmod>2017-01-08T16:51:21+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/post/first_post/</loc>
-    <lastmod>2017-01-08T16:48:29+09:00</lastmod>
+    <loc>https://takusawa.github.io/</loc>
+    <lastmod>2017-01-19T22:29:13+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
