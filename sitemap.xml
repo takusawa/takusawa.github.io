@@ -3,23 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://takusawa.github.io/page/contact/</loc>
-    <lastmod>2017-01-19T22:29:13+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/page/about/</loc>
-    <lastmod>2017-01-08T18:46:41+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://takusawa.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://takusawa.github.io/page/</loc>
-    <lastmod>2017-01-19T22:29:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,7 +14,6 @@
   
   <url>
     <loc>https://takusawa.github.io/</loc>
-    <lastmod>2017-01-19T22:29:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
